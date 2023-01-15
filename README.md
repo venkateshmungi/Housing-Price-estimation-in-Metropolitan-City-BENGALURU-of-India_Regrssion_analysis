@@ -13,13 +13,21 @@ Content
 Columns:
 
 Area Type: Type of Plot
+
 Availability: Ready to Move or Not
+
 Location: Region of Bangalore
+
 Size: BHK
+
 Society: Colony in which the House is Present in
+
 Total Sq. Ft: Total Area
+
 Bath: Number of Bathrooms
+
 Balcony: Number of Balconies
+
 Price: Cost in Lakhs
 
 Dataset Reference : https://www.kaggle.com/datasets/aryanfelix/bangalore-housing-prices?select=BHP.csv
